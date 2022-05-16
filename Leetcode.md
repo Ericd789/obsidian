@@ -10,7 +10,7 @@ Given an array of integers `nums` and an integer `target`, return indices of
 
 [Python Solution](https://github.com/conacts/leetcode/blob/main/leetcode/sorting/twoSum.py) 
 [C++ Solution](https://github.com/conacts/leetcode/blob/main/leetcode/sorting/twoSum.cpp) 
-Gay
+
 ###### Hashmap Solution (1)
 ``` python
 def twoSum(self, nums: List[int], target: int) -> List[int]:
